@@ -1,0 +1,18 @@
+product_id,product_name,product_line,series,launch_date,discontinue_date,price_usd,camera_mp,battery_mah,display_inch,storage_gb,ram_gb,processor,color_options,weight_g
+PRIME-24,Nova Prime 24,Prime,24,2022-01-01,2024-09-17,1056,111,5379,6.8,256,12,Snapdragon 8 Gen 3,"Phantom Black,Cream,Lavender",197
+PRIME-23,Nova Prime 23,Prime,23,2022-06-30,2024-09-17,1215,112,5015,6.7,256,12,Snapdragon 8 Gen 3,"Phantom Black,Cream,Lavender",208
+PRIME-22,Nova Prime 22,Prime,22,2022-12-27,,1228,183,5142,6.9,256,12,Exynos 2400,"Graphite,Silver,Gold",203
+FLEX-FOLD-24,Nova Flex Fold 24,Flex Fold,24,2022-01-01,2024-05-20,1878,63,4790,7.7,256,16,Snapdragon 8 Gen 2,"Graphite,Silver,Gold",277
+FLEX-FOLD-23,Nova Flex Fold 23,Flex Fold,23,2022-06-30,,2108,66,4422,7.9,256,16,Snapdragon 8 Gen 2,"Phantom Black,Cream,Lavender",259
+FLEX-FLIP-24,Nova Flex Flip 24,Flex Flip,24,2022-01-01,2024-03-21,1159,35,3995,6.7,256,8,Snapdragon 8+ Gen 1,"Graphite,Silver,Gold",186
+FLEX-FLIP-23,Nova Flex Flip 23,Flex Flip,23,2022-06-30,,1024,36,3842,6.7,512,8,Snapdragon 8 Gen 2,"Graphite,Silver,Gold",188
+PLUS-24,Nova Plus 24,Plus,24,2022-01-01,2024-06-19,770,81,4859,6.7,128,6,Snapdragon 778G,"Cosmic Gray,Pearl White,Rose Gold",194
+PLUS-23,Nova Plus 23,Plus,23,2022-06-30,2024-12-16,668,104,4852,6.6,256,6,Snapdragon 778G,"Midnight Black,Phantom Silver,Aurora Blue",190
+PLUS-22,Nova Plus 22,Plus,22,2022-12-27,,667,68,4608,6.7,256,6,Snapdragon 7 Gen 1,"Black,White,Blue,Green",194
+LITE-24,Nova Lite 24,Lite,24,2022-01-01,2024-02-20,335,56,4071,6.4,128,6,MediaTek Dimensity 700,"Graphite,Silver,Gold",182
+LITE-23,Nova Lite 23,Lite,23,2022-06-30,2024-12-16,429,63,4046,6.6,64,4,Snapdragon 695,"Black,White,Blue,Green",177
+LITE-22,Nova Lite 22,Lite,22,2022-12-27,,396,62,4270,6.5,64,4,MediaTek Dimensity 700,"Graphite,Silver,Gold",178
+MAX-24,Nova Max 24,Max,24,2022-01-01,2024-08-18,974,108,5580,7.0,512,8,Snapdragon 8 Gen 2,"Graphite,Silver,Gold",240
+MAX-23,Nova Max 23,Max,23,2022-06-30,,1054,108,5578,7.0,256,8,Snapdragon 8 Gen 3,"Black,White,Blue,Green",220
+MINI-24,Nova Mini 24,Mini,24,2022-01-01,2024-01-21,727,64,3685,5.8,256,6,Snapdragon 8 Gen 1,"Cosmic Gray,Pearl White,Rose Gold",162
+MINI-23,Nova Mini 23,Mini,23,2022-06-30,,886,57,3917,5.4,128,6,Snapdragon 8 Gen 2,"Phantom Black,Cream,Lavender",165
