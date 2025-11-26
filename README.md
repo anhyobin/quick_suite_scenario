@@ -1,4 +1,4 @@
-# Amazon Quick Suite 데모 시나리오 - Nova 데이터 생성기
+# Amazon Quick Suite 데모 시나리오
 
 Amazon Quick Suite 데모를 위한 현실적인 스마트폰 제조사(Nova 브랜드) 데이터셋 생성 시스템입니다.
 
