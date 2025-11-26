@@ -1,4 +1,4 @@
-# Amazon Quick Suite 데모 시나리오
+# Amazon Quick Suite 데모 시나리오 - Nova 데이터 생성기
 
 Amazon Quick Suite 데모를 위한 현실적인 스마트폰 제조사(Nova 브랜드) 데이터셋 생성 시스템입니다.
 
@@ -16,7 +16,7 @@ Amazon Quick Suite 데모를 위한 현실적인 스마트폰 제조사(Nova 브
 
 ✅ **현실적인 비즈니스 시나리오**: 실제 스마트폰 제조사의 24개월 운영 데이터  
 ✅ **다양한 데이터 타입**: 정형 데이터(CSV) + 비정형 데이터(JSON)  
-✅ **9개 페르소나 시나리오**: 마케팅, 영업, 제품, 고객 분석, 브랜드, 품질, 재무, 데이터 과학, 경영진  
+✅ **8개 페르소나 시나리오**: 마케팅, 영업, 제품, 고객 분석, 브랜드, 품질, 재무, 경영진  
 ✅ **재현 가능**: 시드 기반 랜덤 생성으로 일관된 결과  
 ✅ **완전한 문서화**: 한글 README, 데이터 사전, 페르소나 시나리오
 
@@ -52,7 +52,7 @@ python main.py
 ## 📖 문서
 
 - **[README.md](nova-data-generator/README.md)** - 전체 프로젝트 문서 및 사용 가이드
-- **[PERSONA_SCENARIOS.md](nova-data-generator/PERSONA_SCENARIOS.md)** - 9개 페르소나별 분석 시나리오
+- **[PERSONA_SCENARIOS.md](nova-data-generator/PERSONA_SCENARIOS.md)** - 8개 페르소나별 분석 시나리오
 - **[DATA_DICTIONARY_TEMPLATE.md](nova-data-generator/DATA_DICTIONARY_TEMPLATE.md)** - 완전한 데이터 사전
 - **[config.yaml](nova-data-generator/config/config.yaml)** - 설정 파라미터 상세 설명
 
@@ -67,8 +67,7 @@ python main.py
 5. **브랜드 매니저** - 소셜 미디어 감성 및 브랜드 인식 분석
 6. **품질 관리 매니저** - 제품 리뷰 및 품질 이슈 분석
 7. **재무 분석가** - 수익성 및 가격 전략 분석
-8. **데이터 과학자** - 예측 모델링 및 고급 분석
-9. **경영진** - 전사 대시보드 및 KPI 모니터링
+8. **경영진** - 전사 대시보드 및 KPI 모니터링
 
 자세한 내용은 [PERSONA_SCENARIOS.md](nova-data-generator/PERSONA_SCENARIOS.md)를 참조하세요.
 
@@ -107,7 +106,6 @@ reviews:
 | 영업 분석가 | ✓✓✓ | - | - | ✓✓ | - |
 | 브랜드 매니저 | ✓ | ✓✓✓ | ✓✓✓ | ✓✓ | - |
 | 품질 관리 매니저 | ✓✓ | ✓✓✓ | ✓✓✓ | - | ✓✓ |
-| 데이터 과학자 | ✓✓✓ | - | ✓✓ | - | - |
 | 경영진 | ✓✓✓ | - | - | ✓ | - |
 
 **범례**: ✓✓✓ 핵심 활용, ✓✓ 주요 활용, ✓ 보조 활용
