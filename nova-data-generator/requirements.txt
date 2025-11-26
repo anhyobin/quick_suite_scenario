@@ -1,0 +1,13 @@
+# Nova 데이터 생성기 - Python 의존성
+# 설치 방법: pip install -r requirements.txt
+
+# 데이터 조작 및 분석
+pandas==2.1.4          # 정형 데이터 생성을 위한 DataFrame 연산
+numpy==1.26.2          # 수치 연산 및 랜덤 숫자 생성
+
+# 텍스트 및 데이터 생성
+faker==22.0.0          # 현실적인 텍스트 콘텐츠를 위한 가짜 데이터 생성
+
+# 설정 및 유틸리티
+pyyaml==6.0.1          # YAML 설정 파일 파싱
+python-dateutil==2.8.2 # 고급 날짜 조작 및 파싱

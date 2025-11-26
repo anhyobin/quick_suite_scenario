@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated data files (optional - 데이터 파일을 포함하려면 이 섹션 제거)
+data/*.csv
+data/*.json
+data/*.log
+data/*.md
+
+# Kiro specs (프로젝트 관리용, 저장소에 포함하지 않음)
+.kiro/
+
+# Logs
+*.log
